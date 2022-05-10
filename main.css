@@ -1,0 +1,13 @@
+.underline-on-hover:hover {
+    text-decoration: underline;
+}
+
+.active {
+    text-decoration: underline;
+}
+
+.navbar {
+  font-family: news-gothic-std,sans-serif,pt-serif,serif,"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
