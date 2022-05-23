@@ -13,21 +13,23 @@
   </head>
   <body>
 
-  <nav class="navbar navbar-light bg-light">
-    <a class="nav-link me-auto" href="index.html">
-        <img src="images/studiorum-Asset-4.png"\
-             alt="Studiorum"
-             width="250"
-             class="d-inline-block align-text-top">
-    </a>
-    <a class="nav-link active ms-auto" aria-current="page" href="products.html">
-      Producten
-    </a>
-    <a class="nav-link ms-auto underline-on-hover" href="#bestellen">
-      Bestellen
-    </a>
-  </nav>
+    <!-- navbar -->
+    <nav class="navbar navbar-light bg-light">
+      <a class="nav-link active me-auto" aria-current="page" href="index.html">
+          <img src="images/studiorum-Asset-4.png"\
+               alt="Studiorum"
+               width="250"
+               class="d-inline-block align-text-top">
+      </a>
+      <a class="nav-link ms-auto underline-on-hover" href="bestellen.html">
+        Bestellen
+      </a>
+      <a class="nav-link ms-auto underline-on-hover" href="over_ons.html">
+        Over ons
+      </a>
+    </nav>
 
+  <!-- page-content -->
   <div class="container">
   <div class="row row-cols-1 row-cols-md-2 g-4">
     <div class="col">
